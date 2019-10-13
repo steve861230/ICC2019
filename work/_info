@@ -1,0 +1,42 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\USER\Desktop\2012(2)
+vCONV
+VL3KL5Be@PU;i<zAanAN>U2
+r1
+!s85 0
+31
+ITc;<VzR30VfYhFPXAN`8Z1
+Z0 dC:\Users\USER\Desktop\2019
+w1553668446
+8C:/Users/USER/Desktop/2019/CONV.v
+FC:/Users/USER/Desktop/2019/CONV.v
+L0 4
+Z1 OL;L;10.1c;51
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@c@o@n@v
+!s100 [:0009KflDWCbB[Sjc3iW2
+!s108 1553669421.685000
+!s107 C:/Users/USER/Desktop/2019/CONV.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/USER/Desktop/2019/CONV.v|
+!i10b 1
+vtestfixture
+VKBIIT=eCh7cJh[^JXBGX00
+r1
+31
+IM[Hi;CO5LQgP7ZagmX51n1
+Z2 dC:\Users\USER\Desktop\2019
+w1553668827
+8testfixture.v
+Ftestfixture.v
+L0 11
+R1
+o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s85 0
+!i10b 1
+!s100 @E?fJd^Hj`Ma?YBnWb8Oa3
+!s108 1553669539.924000
+!s107 testfixture.v|
+!s90 -reportprogress|300|testfixture.v|
